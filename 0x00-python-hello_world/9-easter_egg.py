@@ -3,5 +3,3 @@ import this
 import contextlib
 from io import StringIO
 zen = StringIO()
-print("\n")
-

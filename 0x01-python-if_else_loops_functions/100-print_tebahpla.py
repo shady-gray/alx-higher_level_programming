@@ -4,4 +4,4 @@ for a in range(122, 96, -1):
         step = 0
     else:
         step = 32
-    print('{}'.format(chr(a - step), end='')
+    print('{}'.format(chr(a - step)), end='')

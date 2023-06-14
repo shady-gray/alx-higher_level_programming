@@ -60,4 +60,21 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - Don’t forget to push your header file
 - All your header files should be include guarded
 
-## Task Files
+## Task File
+
+0. `0-print_list_integer.py` - **0. Print a list of integers** : a function that prints all integers of a list.
+1. `1-element_at.py` - **1. Secure access to an element in a list** : a function that retrieves an element from a list like in C.
+2. `2-replace_in_list.py` - **2. Replace element** : a function that replaces an element of a list at a specific position (like in C).
+3. `3-print_reversed_list_integer.py` - **3. Print a list of integers... in reverse!** : a function that prints all integers of a list, in reverse order.
+4. `4-new_in_list.py` - **4. Replace in a copy** : a function that replaces an element in a list at a specific position without modifying the original list (like in C).
+5. `5-no_c.py` - **5. Can you C me now?** : a function that removes all characters c and C from a string.
+6. `6-print_matrix_integer.py` - **6. Lists of lists = Matrix** : a function that prints a matrix of integers.
+7. `7-add_tuple.py` - **7. Tuples addition** : a function that adds 2 tuples.
+8. `8-multiple_returns.py` - **8. More returns!** : a function that returns a tuple with the length of a string and its first character.
+9. `9-max_integer.py` - **9. Find the max** : a function that finds the biggest integer of a list.
+10. `10-divisible_by_2.py` - **10. Only by 2** : a function that finds all multiples of 2 in a list.
+11. `11-delete_at.py` - **11. Delete at** : a function that deletes the item at a specific position in a list.
+12. `12-switch.py` - **12. Switch** : A program that switch values of two variables.
+13. `13-is_palindrome.c` - **13. Linked list palindrome** : a function in C that checks if a singly linked list is a palindrome.
+14. `100-print_python_list_info.c` - **14. CPython #0: Python lists** : a C function that prints some basic info about Python lists.
+![meme](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/7e7834b535261d05532fb80a9304f7051c4ad7ac.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230614%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230614T054823Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=266761ac1967b90cecd6796b2d53b7fa1588f71140c32ad19b249b81b4b6af03)

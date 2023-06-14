@@ -77,4 +77,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 12. `12-switch.py` - **12. Switch** : A program that switch values of two variables.
 13. `13-is_palindrome.c` - **13. Linked list palindrome** : a function in C that checks if a singly linked list is a palindrome.
 14. `100-print_python_list_info.c` - **14. CPython #0: Python lists** : a C function that prints some basic info about Python lists.
+
 ![meme](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/7e7834b535261d05532fb80a9304f7051c4ad7ac.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230614%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230614T054823Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=266761ac1967b90cecd6796b2d53b7fa1588f71140c32ad19b249b81b4b6af03)

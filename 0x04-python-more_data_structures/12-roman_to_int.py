@@ -16,11 +16,13 @@ def roman_to_int(roman_string):
                 "I": 1
                 }
         final_int = 0
-        chr_list = list(roman_string)
-        for chr in reversed(chr_list):
-            if final_int > R_dict[chr]:
-                final_int -= R_dict[chr]
+        n = list(R_dict[a] for a in roman_string)
+        for i in range(0, len(n) - 1):
+            if n[i] < n[i + 1]:
+                n[i] = -n[i]
             else:
-                final_int = final_int + R_dict[chr]
+                continue
+        for item in n:
+            final_int += item
 
     return final_int

@@ -15,7 +15,7 @@ def weight_average(my_list=[]):
             k = 1
             m.append(tup[1])
 
-        for a in n :
+        for a in n:
             n_total = n_total + a
         for b in m:
             m_total = m_total + b

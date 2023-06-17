@@ -10,9 +10,9 @@ def roman_to_int(roman_string):
         final_int = 0
         chr_list = list(roman_string)
         for chr in reversed(chr_list):
-            if final_int < R_dict[chr]:
-                final_int = final_int + R_dict[chr]
-            else:
+            if final_int > R_dict[chr]:
                 final_int -= R_dict[chr]
+            else:
+                final_int = final_int + R_dict[chr]
 
     return final_int

@@ -5,7 +5,7 @@ def safe_print_integer_err(value):
         print("{:d}".format(value))
     except (ValueError, TypeError) as er:
         import sys
-        sys.stderr.write("Exception: {}".format(er))
+        print("Exception: {}".format(er), file=sys.stderr)
         return False
     else:
         return True

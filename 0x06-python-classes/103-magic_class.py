@@ -4,6 +4,7 @@ Module: 103-magic_class.py
 Class Node that defines a node of a singly linked list.
 Class SinglyLinkedList that defines a singly linked list.
 """
+import math
 
 
 class MagicClass:

@@ -1,4 +1,4 @@
-# PROJECT: 0x07-python-test_driven_development
+# PROJECT: 0x07. Python - Test-driven development
 
 ## AUTHOR: BASIL BASSEY
 
